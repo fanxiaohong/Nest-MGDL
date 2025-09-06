@@ -4,8 +4,8 @@ This repository contains the natural image CS and sparse-view CT reconstruction 
 
 ### Environment  
 ```
-pytorch <= 1.7.1 (recommend 1.7.0, 1.7.1)
-scikit-image <= 0.16.2 (recommend 0.15.0, 0.16.2)
+pytorch (recommend 1.7.0, 1.7.1)
+scikit-image (recommend 0.15.0)
 ```
 
 ### 1.Test natural image CS    
