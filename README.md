@@ -2,6 +2,14 @@
 This repository contains the natural image CS and sparse-view CT reconstruction pytorch codes for the following paper：  
 
 
+### Environment  
+```
+pytorch <= 1.7.1 (recommend 1.6.0, 1.7.1)
+scikit-image <= 0.16.2 (recommend 0.16.1, 0.16.2)
+torch-radon = 1.0.0 (for sparse-view CT)
+```
+
+
 
 ### Acknowledgements  
 Thanks to the authors of ISTA-Net, our codes are adapted from the open source codes of it.   
