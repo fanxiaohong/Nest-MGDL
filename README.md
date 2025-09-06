@@ -1,5 +1,5 @@
 # Nest-MGDL
-This repository contains the natural image CS and sparse-view CT reconstruction pytorch codes for the following paper：  
+This repository contains the natural image CS pytorch codes for the following paper：  
 
 
 ### Environment  
