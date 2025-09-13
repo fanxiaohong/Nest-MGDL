@@ -1,6 +1,6 @@
 # Nest-MGDL
 This repository contains the natural image CS pytorch codes for the following paper：  
-
+Nesterov-Optimized Memory and Geometric Distillation Learning for Image Compressed Sensing, Under Review
 
 ### Environment  
 ```
